@@ -152,4 +152,4 @@ Open the `.pbix` file in Power BI Desktop and connect it to your local data sour
 
 **Abdelrahman Elmogy** — Data Analyst & Automation Engineer  
 📍 Cairo, Egypt  
-🔗 [LinkedIn](https://linkedin.com/in/abdelrahman-elmogy) | 🌐 [Portfolio](https://abdelrahamannelmogyy.github.io)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-elmogy-5086b4245/) | 🌐 [Portfolio](https://abdelrahamannelmogyy.github.io)
